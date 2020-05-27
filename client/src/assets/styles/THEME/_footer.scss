@@ -1,0 +1,15 @@
+.footer{
+    background-color: $primary-color;
+    color: $secondary-text-color;
+}
+
+.line{
+    margin-top: 0;
+    border-top: 1px solid black;
+    width: 80px;
+}
+
+.box{
+    display: -webkit-box;
+    -webkit-box-align: center;
+}

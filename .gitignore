@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.env
+<<<<<<< HEAD
+server/public/*
+=======
+server/public/*
+server/public/index.html
+>>>>>>> master
